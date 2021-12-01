@@ -1,0 +1,3 @@
+[submodule "vgReviewWeb"]
+	path = vgReviewWeb
+	url = https://github.com/spavunc/vgReviewWeb
